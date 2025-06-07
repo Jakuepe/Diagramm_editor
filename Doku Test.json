@@ -1,0 +1,28 @@
+{
+  "boxes": [
+    {
+      "x": 100.0,
+      "y": 100.0,
+      "text": "K\u00e4stchen 1",
+      "color": "lightblue"
+    },
+    {
+      "x": 227.0,
+      "y": 246.0,
+      "text": "K\u00e4stchen 2",
+      "color": "lightblue"
+    },
+    {
+      "x": 399.0,
+      "y": 109.0,
+      "text": "K\u00e4stchen 3",
+      "color": "lightblue"
+    }
+  ],
+  "connections": [
+    {
+      "from": "K\u00e4stchen 1",
+      "to": "K\u00e4stchen 2"
+    }
+  ]
+}

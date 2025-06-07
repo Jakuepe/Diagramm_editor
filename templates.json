@@ -1,0 +1,32 @@
+[
+    {
+        "name": "KNX",
+        "shape": "rect",
+        "color1": "#00aa00",
+        "color2": "#00aa00",
+        "width": 100,
+        "height": 60,
+        "text1": "KNX",
+        "text2": ""
+    },
+    {
+        "name": "Loxone Tree",
+        "shape": "rect",
+        "color1": "#00ff00",
+        "color2": "#ffffff",
+        "width": 100,
+        "height": 60,
+        "text1": "Loxone Tree",
+        "text2": ""
+    },
+    {
+        "name": "test",
+        "shape": "rect",
+        "color1": "#d3d3d3",
+        "color2": "#ffffff",
+        "width": 100,
+        "height": 60,
+        "text1": "laksdfal\u00f6fj\u00f6lasf\u00f6laf\u00f6alsfja\u00f6sldf",
+        "text2": ""
+    }
+]
